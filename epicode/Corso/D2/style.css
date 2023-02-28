@@ -1,0 +1,58 @@
+#content{
+    padding-left: 25em;
+    padding-right: 25em;
+}
+
+#logo {
+    height: 100%;
+    
+}
+
+#didascaliaLogo{
+        width: 100%;
+        margin: auto;
+        border-top: 1px solid #e6daa6;
+        background-color: #F1F1E9;
+        height: 4em;
+    
+    }
+
+    #DescrizioneSimply{
+        color:#0d7575 ;
+    }
+
+#simply{
+
+    width: 100px;   
+
+}
+
+.centrato{
+    text-align: center;
+}
+
+#focaccia {
+    width: 100%;
+}
+
+h1{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+a{
+    color:#0d7575 ;
+}
+
+body{
+   font-family: 'Times New Roman', Times, serif ;
+}
+
+#feat{
+    color: orangered;
+}
+
+h3{
+    padding-top: 1em ;
+    padding-bottom: 1em;
+}
