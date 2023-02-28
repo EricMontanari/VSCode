@@ -1,0 +1,14 @@
+.body{
+    margin: 0 ;
+}
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap');
+
+.main-section {
+    padding: 20px;
+}
+
+.image-container{
+    
+    background-image: url(https://visitlakeiseo.info/wp-content/uploads/2022/01/10-luoghi-da-vedere-sul-lago-diseo.jpg);
+}
