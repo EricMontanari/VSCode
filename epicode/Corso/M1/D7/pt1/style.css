@@ -1,0 +1,45 @@
+body{
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    font-size: 35px;
+    font-weight: bold
+
+}
+
+header{
+    background-color: #80cbc4;
+    height: 10vh;
+
+}
+
+main{
+    display: flex;
+    height: 75vh;
+}
+
+#nav{
+    background-color:#ffab00 ;
+    width: 15vw;
+
+
+}
+
+#art{
+    background-color:#ffd54e ;
+    width: 50vw;
+}
+
+#asi{
+    background-color:#fff276 ;
+    width: 35vw;
+}
+
+footer{
+    background-color: #80cbc4;
+    height: 15vh;
+}
+
+p{
+    margin: 15px;
+}
